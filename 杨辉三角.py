@@ -1,6 +1,3 @@
-import copy
-
-
 def triangles():
     num = 0
     while True:
